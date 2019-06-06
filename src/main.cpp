@@ -8,15 +8,6 @@
 #include <iostream>
 #include <functional>   
 
-struct myComparator 
-{ 
-    bool operator() (const SweepLineStatus& p1, const SweepLineStatus& p2) 
-    { 
-        return p1.p_.x > p2.p_.x; 
-    } 
-}; 
-  
-
 int main()
 {
     std::vector<Intervalo> v {
