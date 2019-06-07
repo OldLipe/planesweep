@@ -5,3 +5,10 @@ Alunos:
 - Paulo Renato
 	
 Implementação do algoritmo Plane Sweep
+
+```bash
+cmake ./
+make
+./run
+
+```
