@@ -6,6 +6,9 @@ Alunos:
 	
 Implementação do algoritmo Plane Sweep
 
+
+## Como compilar
+
 ```bash
 cmake ./
 make
